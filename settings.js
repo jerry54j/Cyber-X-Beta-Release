@@ -36,23 +36,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['923465125306'] //ur owner number
+global.ownername = "〔 *✎ᴍʀܔ𝐉ᵉᵉʳʸꪜ㋡* 〕" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
+global.owner = ['923465125306']
+global.ownertag = '926465125306' //ur tag number
+global.botnumber = '923465125306' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
+global.reactmoji = "❣️" //ur menu react emoji
+global.themeemoji = "💀" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
 global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
@@ -70,25 +70,25 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.premium = ['923465125306'] //ADD YOU NUMBER
+global.ntilinkytvid = [true]
+global.ntilinkytch = [true]
+global.ntilinkig = [true]
+global.ntilinkfb = [true]
+global.ntilinktg = [true]
+global.ntilinktt = [true]
+global.ntilinktwt = [true]
+global.ntilinkall = [false]
+global.nticall = [false]
+global.ntwame = [false]
+global.nttoxic = [false]
+global.ntnsfw = [true]
+global.ntvirtex = [true]
+global.rkyt = [true]
+global.wlcm = [false]
+global.gcrevoke = [false]
+global.autorep = [true]
+global.ntilink = [true]
 
 //OTHERS
 global.sessionName = 'session'
