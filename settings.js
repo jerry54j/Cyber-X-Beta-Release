@@ -36,16 +36,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['923465125306'] //ur owner number
+global.vcardowner = ['994407087214'] //ur owner number
 global.ownername = "〔 *✎ᴍʀܔ𝐉ᵉᵉʳʸꪜ㋡* 〕" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['923465125306']
-global.ownertag = '926465125306' //ur tag number
-global.botnumber = '923465125306' //Add your Bot Number For Log
+global.owner = ['994407087214']
+global.ownertag = '994407087214' //ur tag number
+global.botnumber = '994407087214' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['923465125306'] //ADD YOU NUMBER
+global.premium = ['994407087214'] //ADD YOU NUMBER
 global.ntilinkytvid = [true]
 global.ntilinkytch = [true]
 global.ntilinkig = [true]
